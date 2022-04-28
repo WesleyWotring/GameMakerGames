@@ -1,0 +1,1 @@
+path_start(pig_enemy, 3, path_action_restart, 1);

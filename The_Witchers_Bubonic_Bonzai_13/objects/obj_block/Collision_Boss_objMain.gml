@@ -1,0 +1,1 @@
+Boss_objMain.vspeed = 0;

@@ -1,0 +1,1 @@
+shootPlayer(10);

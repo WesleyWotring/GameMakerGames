@@ -1,0 +1,1 @@
+audio_play_sound(snd_deer,1,false);

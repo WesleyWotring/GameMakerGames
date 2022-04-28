@@ -1,0 +1,1 @@
+bossIntro.vspeed = 0;

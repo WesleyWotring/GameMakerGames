@@ -1,0 +1,1 @@
+player_obj.vspeed = 0;

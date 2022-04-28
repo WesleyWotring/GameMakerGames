@@ -1,0 +1,1 @@
+sprite_index = credits_click_spr
